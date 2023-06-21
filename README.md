@@ -1,1 +1,1 @@
-# Trabalho-de-Introducao-a-Matematica-Computacional.
+# Trabalho de Introducao a Matematica Computacional.
