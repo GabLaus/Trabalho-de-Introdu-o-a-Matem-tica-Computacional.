@@ -1,8 +1,1 @@
 # Trabalho de Introducao a Matematica Computacional.
-m w[nvikow[nvkeow[gvniewo[gvnieorwpqgvineorgenugnveorupdknseiorubpvneruignekiwpguhqjvweiugvnrhfiuvhqetiuypfjipgrutvbnjefgiprvnefjkvbeipqruvbnefjipvnvsdjlvn
-
-
-
-
-
-sdnvsdvnsdlvnlvnlvnsdvndsvndslvndslvnlsvnlvnldsvlsdlvnslnvsvnlnvssnvlvnlvnvvnlvnvnlvnlvnlv
