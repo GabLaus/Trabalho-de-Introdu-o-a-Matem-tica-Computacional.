@@ -1,1 +1,6 @@
 # Trabalho de Introducao a Matematica Computacional.
+Este código em Python se utiliza de algumas bibliotecas para a manipulação de imagens, como o OpenCv, NumPy e Matplotlib. Também faz referencia a uma biblioteca especifica do Google Collab para exibição de imagens
+Basicamente essas linhas de código estão relacionadas á leitura e exibição de uma imagem usando uma biblioteca OpenCV img = cv2.imread('t1.jpg', 1)`: A função `cv2.imread()` é usada para ler uma imagem de um arquivo. Nesse caso, o arquivo de imagem é chamado "t1.jpg". O segundo parâmetro, que é igual a 1, especifica que a imagem deve ser carregada em cores, ou seja, o formato de cor será BGR (azul-verde-vermelho). O resultado da leitura da imagem é armazenado na variável `img`. 2. Como foi mostrado em aula no laboratório, onde o professor utilizou-se de uma webcam e através dela foi possível mudar as cores da imagem, no caso, do vídeo.
+Já na segunda parte do código ele estará inativo com as aspas no caso se retirar as aspas ele vai estar vai gerando uma imagem colorida em um ambiente Python local.
+Já na terceira parte ele faz o processo de uma aplicação de uma conversão ponderada em uma imagem colorida para converte-la em preto e branco.
+![image](https://github.com/GabLaus/Trabalho-de-Introdu-o-a-Matem-tica-Computacional./assets/126731334/1313bbef-707b-4874-8b4b-3451f7fad316)
