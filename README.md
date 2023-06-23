@@ -8,9 +8,7 @@ E na terceira parte desse código, ele faz o processo de uma aplicação de conv
 Com relação a segunda sequência de códigos (Transformações), cada parte desses códigos estão relacionados á criação do negativo de uma imagem, ou seja, vai pegar uma imagem e irá converte-la em uma imagem negativa.
 
 E então, na outra parte na sequência do código, está relacionado aos ajustes de brilho de uma imagem. 
-
-Na última sequência de códigos (Filtros Especiais), cada parte desse código está relacionada à aplicação de um filtro de suavização em uma imagem, processando e executando tudo e dando forma a imagem através do kernel=np.ones, utilizando o recurso para alterar a intensidade dos pixels de uma imagem, sendo esse o filter2D, mostrando a imagem no final com o comando cv2_imshow.
-Concluindo, todos esses códigos são basicamente códigos que alteram e convertem as cores de imagem para depois serem mostradas.
+Na última sequência de códigos (Filtros Especiais), cada parte desse código está relacionada à aplicação de um filtro de suavização em uma imagem, processando e executando tudo e dando forma a imagem através do kernel=np.ones, utilizando o recurso para alterar a intensidade dos pixels de uma imagem, sendo esse o filter2D, mostrando a imagem no final com o comando cv2_imshow. Concluindo, todos esses códigos são basicamente códigos que alteram e convertem as cores de imagem para depois serem mostradas.
 
 
 
